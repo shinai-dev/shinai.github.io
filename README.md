@@ -70,3 +70,5 @@ Escribime por [Discord](https://discord.gg/F4eeKwPe) o visitá [ShinAI en X](htt
 
 > _“Creatividad provocadora, código emocional.”_ — ShinAI ✨
 ```
+https://shinai-dev.github.io/shinai.github.io/
+```
